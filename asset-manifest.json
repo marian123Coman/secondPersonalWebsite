@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/static/css/main.08a9eb45.chunk.css",
+    "main.js": "/static/js/main.15105750.chunk.js",
+    "main.js.map": "/static/js/main.15105750.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.30ce42f3.js",
+    "runtime-main.js.map": "/static/js/runtime-main.30ce42f3.js.map",
+    "static/css/2.ae9e5f60.chunk.css": "/static/css/2.ae9e5f60.chunk.css",
+    "static/js/2.1b6fa909.chunk.js": "/static/js/2.1b6fa909.chunk.js",
+    "static/js/2.1b6fa909.chunk.js.map": "/static/js/2.1b6fa909.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.ae9e5f60.chunk.css.map": "/static/css/2.ae9e5f60.chunk.css.map",
+    "static/css/main.08a9eb45.chunk.css.map": "/static/css/main.08a9eb45.chunk.css.map",
+    "static/js/2.1b6fa909.chunk.js.LICENSE.txt": "/static/js/2.1b6fa909.chunk.js.LICENSE.txt",
+    "static/media/Contact.module.css": "/static/media/io2.d54db3e2.jpg",
+    "static/media/css.6402b604.png": "/static/media/css.6402b604.png",
+    "static/media/facebook.177e21a8.png": "/static/media/facebook.177e21a8.png",
+    "static/media/firebase.6f1a1b33.png": "/static/media/firebase.6f1a1b33.png",
+    "static/media/git.07cfcfdf.png": "/static/media/git.07cfcfdf.png",
+    "static/media/github.2a4544b5.png": "/static/media/github.2a4544b5.png",
+    "static/media/html.64ab3bcb.png": "/static/media/html.64ab3bcb.png",
+    "static/media/info.e8f747d1.png": "/static/media/info.e8f747d1.png",
+    "static/media/javascript.02f8473f.png": "/static/media/javascript.02f8473f.png",
+    "static/media/linked2.382f5eba.png": "/static/media/linked2.382f5eba.png",
+    "static/media/mongo.ad8ed589.png": "/static/media/mongo.ad8ed589.png",
+    "static/media/node.d980d963.png": "/static/media/node.d980d963.png",
+    "static/media/Projects.module.css": "/static/media/pattern8.4468bc51.jpg",
+    "static/media/react.ef28a756.png": "/static/media/react.ef28a756.png",
+    "static/media/slide3.dc49f917.png": "/static/media/slide3.dc49f917.png",
+    "static/media/slide4.d2d970dd.png": "/static/media/slide4.d2d970dd.png",
+    "static/media/star.81c1d198.png": "/static/media/star.81c1d198.png",
+    "static/media/video1.b6e8159e.mp4": "/static/media/video1.b6e8159e.mp4",
+    "static/media/whatsapp.f051e51b.png": "/static/media/whatsapp.f051e51b.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.30ce42f3.js",
+    "static/css/2.ae9e5f60.chunk.css",
+    "static/js/2.1b6fa909.chunk.js",
+    "static/css/main.08a9eb45.chunk.css",
+    "static/js/main.15105750.chunk.js"
+  ]
+}
